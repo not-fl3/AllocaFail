@@ -1,0 +1,8 @@
+[package]
+name = "bar"
+version = "0.0.1"
+
+[dependencies]
+nalgebra = "0.8.*"
+rustc-serialize = "0.3"
+

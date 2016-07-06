@@ -1,0 +1,10 @@
+[package]
+name = "foo"
+version = "0.0.1"
+
+[dependencies]
+nalgebra = "0.8.*"
+bar = { path = "../bar" }
+rustc-serialize = "0.3"
+toml = "0.1"
+
